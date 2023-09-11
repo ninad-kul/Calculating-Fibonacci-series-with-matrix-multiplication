@@ -8,4 +8,5 @@ I found this matrix method for fibonacci series in Linear Algebra (18.06) lectur
 
 Link for the lecture  (method is shown in the later half) - https://www.youtube.com/watch?v=13r9QY6cmjc&list=PL49CF3715CB9EF31D&index=22
 
+
 I have tried to implement that method using Python and NumPy.
